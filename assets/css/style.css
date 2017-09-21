@@ -34,7 +34,7 @@ body{
     font-family: 'Lato', sans-serif;
     line-height: 28px;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 0.875em;
     color:#282828;
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
@@ -1079,7 +1079,7 @@ p {
 
 /* === Work Section === */
 .works-section {
-    background-color: #f7f7f7;
+
 }
 .portfolio-item {
     padding-right: 5px;

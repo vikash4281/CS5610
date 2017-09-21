@@ -4,8 +4,8 @@
 $(document).ready(function () {
     $(function(){
         $("#profile-card-header").typed({
-            strings: ["Data Enthusiast",
-                "Web Designer",
+            strings: ["Data Analyst",
+                "Data Scientist",
                 "Software Developer",
                 "CS Graduate '18"
             ],
